@@ -1,9 +1,9 @@
 //tela de login
 function longar() {
-    window.location = "filmes.html"
+    window.location = "index.html"
 }
 
 // botão voltar das páginas dos filmes para a página filme
 function votar() {
-    window.location = "filmes.html"
+    window.location = "index.html"
 }
